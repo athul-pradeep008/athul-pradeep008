@@ -1,107 +1,194 @@
 ## Hi there 👋
 
-<!--
-**athul-pradeep008/athul-pradeep008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Act as a Senior Software Engineer, Technical Recruiter at Google/Microsoft, GitHub Open Source Maintainer, and UI/UX Designer.
 
-Act as a senior software engineer, GitHub maintainer, and technical recruiter.
+I am a Computer Science undergraduate looking for internships and full-time software engineering roles.
 
-Analyze my GitHub profile and provide a complete roadmap to make it look professional and attractive to recruiters, internship coordinators, and hiring managers.
+Below is my resume information.
 
-My goal is to secure internships and full-time software engineering roles.
+==========================
+Name:
+Athul Pradeep
 
-Please improve every aspect of my GitHub profile, including:
+Role:
+Computer Science Undergraduate
+Aspiring Software Engineer
+AI & Machine Learning Enthusiast
+Web Developer
+Customer Experience Engineer Intern
 
-1. GitHub Profile
-   - Professional profile picture recommendations
-   - Bio
-   - Headline
-   - Location
-   - Portfolio links
-   - LinkedIn link placement
-   - Contact information
+Education:
+B.Tech Computer Science
+Karunya Institute of Technology and Sciences
+Expected Graduation: 2027
 
-2. Profile README
-   - Create a modern, visually appealing GitHub Profile README.
-   - Include:
-     - Professional introduction
-     - About Me section
-     - Skills
-     - Tech Stack with icons
-     - Languages
-     - Frameworks
-     - Tools
-     - Currently Learning
-     - Featured Projects
-     - GitHub Statistics
-     - Contribution Graph
-     - Coding Profiles (LeetCode, HackerRank, CodeChef, etc.)
-     - Social Media Badges
-     - Visitor Counter
-     - Clean footer
+Technical Skills:
+• Java
+• Python
+• HTML
+• CSS
+• JavaScript
+• React
+• Flutter
+• PostgreSQL
+• Docker
+• AI & Machine Learning
+• DevOps
+• Git
+• GitHub
 
-3. Repository Organization
-   Suggest:
-   - Repository naming conventions
-   - Folder structure
-   - README templates
-   - Badges
-   - License
-   - Contributing guide
-   - Code of Conduct
-   - Issue templates
-   - Pull Request templates
-   - GitHub Actions for CI/CD
+Projects:
 
-4. Pinned Repositories
-   Recommend which six repositories should be pinned and explain why.
+1. Pizza Delivery Application
+Technology:
+Java
+HTML
+CSS
+Flutter
+Artificial Intelligence
 
-5. Project Improvements
-   For every repository, suggest improvements in:
-   - Documentation
-   - Screenshots
-   - Architecture diagrams
-   - Installation
-   - Features
-   - Tech stack
-   - Future enhancements
-   - Demo GIFs
-   - Deployment links
+2. AI Script Scene Budget & Location Analyzer
 
-6. GitHub Best Practices
-   Explain:
-   - Meaningful commits
-   - Branch strategy
-   - Semantic versioning
-   - Release notes
-   - Tags
-   - Pull requests
-   - Project boards
-   - Discussions
+Frontend:
+HTML
+CSS
+JavaScript
 
-7. Professional README Template
-   Create a premium-looking README using:
-   - Markdown
-   - Shields.io badges
-   - Devicons
-   - GitHub Readme Stats
-   - Streak Stats
-   - Top Languages
-   - Activity Graph
-   - Trophy
-   - Typing SVG
-   - Snake Contribution Animation
+Backend:
+Python
+React
 
-8. Recruiter Perspective
-   Review my GitHub as if you are a recruiter.
-   Give it a score out of 10 for:
-   - Professionalism
-   - Code Quality
-   - Documentation
-   - Activity
-   - Portfolio Quality
-   - Employability
+Database:
+PostgreSQL
 
-9. Action Plan
-   Provide a detailed 30-day roadmap to transform my GitHub into a top 1% developer profile.
+Deployment:
+Vercel
 
-Make the design modern, minimal, ATS-friendly, and visually appealing while maintaining fast loading speed.
+Tools:
+Docker
+AI Tools
+
+Internships
+
+Web Developer Intern
+Oasis Infobyte
+
+AI & Machine Learning Engineer Intern
+Edutantr
+
+Certifications
+
+Java Programming
+
+Python Programming
+
+Web Development
+
+HTML Essentials
+
+CSS Essentials
+
+Cybersecurity
+
+IoT
+
+Career Objective
+
+Seeking opportunities where I can apply my technical knowledge, problem-solving abilities, and customer-focused mindset while continuously learning modern technologies.
+
+==========================
+
+Your task is to create a world-class GitHub profile.
+
+Generate:
+
+1. A premium GitHub Profile README
+
+Include
+
+• Animated Header
+• Typing Animation
+• Professional Introduction
+• About Me
+• Education
+• Skills
+• Tech Stack with Icons
+• Programming Languages
+• Frameworks
+• Databases
+• Tools
+• Cloud & DevOps
+• AI & ML
+• Current Learning
+• Featured Projects
+• Internship Experience
+• Certifications
+• GitHub Statistics
+• GitHub Streak
+• Top Languages
+• Contribution Graph
+• GitHub Trophy
+• Visitor Counter
+• Social Media Badges
+• Contact Section
+• Professional Footer
+
+2. Repository README template
+
+Include
+
+Overview
+
+Features
+
+Architecture Diagram
+
+Folder Structure
+
+Installation
+
+Usage
+
+Screenshots
+
+Technology Stack
+
+Future Enhancements
+
+Contributors
+
+License
+
+3. Suggest the best six repositories to pin.
+
+4. Review my profile as if you are a recruiter from Google, Microsoft, Amazon, Atlassian, and Zoho.
+
+Give scores out of 10 for
+
+Professionalism
+
+Code Quality
+
+Portfolio
+
+Documentation
+
+Internship Readiness
+
+Overall Employability
+
+5. Suggest improvements for every repository.
+
+6. Suggest GitHub Actions workflows.
+
+7. Suggest meaningful commit message conventions.
+
+8. Suggest folder structures for Java, Python, React, AI, and Full Stack projects.
+
+9. Generate a modern GitHub profile using dark mode aesthetics similar to the best GitHub developer profiles.
+
+10. Make the design visually appealing with badges, icons, GitHub Readme Stats, Activity Graph, Snake Animation, Shields.io badges, Skill Icons, and responsive markdown.
+
+11. Ensure the profile is ATS-friendly and optimized for recruiters.
+
+12. Finally, provide all the Markdown code so I can directly copy and paste it into my GitHub Profile README.
